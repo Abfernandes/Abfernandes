@@ -1,10 +1,14 @@
+![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 <h1 align="center">Hi 👋, I'm Ab Fernandes</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="codingimg" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abfernandes&label=Profile%20views&color=0e75b6&style=flat" alt="abfernandes" /> </p>
 
 - 🌱 I’m currently learning **react, angular, JavaScript**
+
+- 👨‍💻 All of my projects are available at [https://linktr.ee/abfernandes_07](https://linktr.ee/abfernandes_07)
 
 - 💬 Ask me about **HTML, Css**
 
@@ -30,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abfernandes&show_icons=true&locale=en" alt="abfernandes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abfernandes&" alt="abfernandes" /></p>
-
